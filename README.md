@@ -58,5 +58,3 @@ Roles in the MVC pattern:
 - Yes: Performance challenges with traditional MVC applications compared to Web APIs:
   - Frequent Page Refreshes Causing Performance Overhead: Traditional MVC applications often require full page refreshes, leading to performance overhead.
   - Complex Data Exchange Requiring a More Lightweight Approach: For applications that require efficient data exchange without the need for a full UI render, Web APIs provide a more lightweight and efficient approach.
-
-This self-assessment helps identify practical experience with these architectures and potential bottlenecks, encouraging reflection on the trade-offs involved when choosing the right architecture for a project.
