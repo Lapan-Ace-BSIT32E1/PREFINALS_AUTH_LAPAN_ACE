@@ -1,38 +1,76 @@
-# Self-Assessment: Onion Architecture, MVC, and Web API (.NET Core) with Bottlenecks (Encountered) Conceptual Understanding:
+Self-Assessment: Onion Architecture, MVC, and Web API (.NET Core) with Bottlenecks (Encountered)
+Conceptual Understanding:
+ 
+Onion Architecture: (Yes/No) 
+ 
+Have you heard of the Onion Architecture principle in software design?
+ 
+ 
+ 
+MVC Pattern: (Yes/No) 
+ 
+Are you familiar with the Model-View-Controller (MVC) pattern for building web applications?
+ 
+ 
+ 
+Web API: (Yes/No) 
+ 
+Do you understand the concept of building RESTful APIs using ASP.NET Core Web API?
+ 
+ 
+ 
 
-1. <b> Onion Architecture </b>
-   <br>-Yes
-   
-2. <b> MVC Pattern </b>
-   <br>-Slight Yes, Slight No
-   
-3. <b> Web API </b>
-   <br>-Slight Yes, Slight No
+Application & Bottlenecks:
+Onion Architecture:
+ 
+ 
+Benefits: (1-3 keywords)
+ 
+ 
+Briefly list some key benefits of using Onion Architecture in .NET Core projects. (e.g., separation of concerns, testability)
+ 
+ 
+ 
+ 
+Bottlenecks (Encountered): (Yes/No and Briefly Explain)
+ 
+ 
+Have you encountered any challenges with Onion Architecture in your projects? If so, briefly describe the bottleneck(s). (e.g., Increased complexity for simple projects, difficulty finding developers familiar with the pattern)
+ 
+ 
+ 
 
-# Application & Bottlenecks:  Onion Architecture:
+MVC:
+ 
+ 
+Components: (1-3 keywords each)
+ 
+ 
+Briefly describe the roles of the Model, View, and Controller in the MVC pattern.
+ 
+ 
+ 
+ 
+Bottlenecks (Encountered): (Yes/No and Briefly Explain)
+ 
+ 
+Have you encountered any challenges with tight coupling between Model and Controller in MVC projects? If so, briefly describe the issue(s). (e.g., Difficulty in unit testing controllers, logic changes rippling through the application)
+ 
+ 
+ 
 
-1. <b>Benefits</b>
-   <br>-Organized
-
-2. <b>Bottlenecks</b>
-   <br>- Personal bottleneck, not knowing what to do next or how to start
-
-# MVC
-
-1. <b>Components</b>
-   - Model, the logic
-   - View, representing the logic
-   - Controller, connection of Model and View, process user input into actions performed by Model and View
-
-2. <b>Bottlenecks</b>
-   - Yes but just personal matter (e.g., not know what I am doing XD)
-  
-
-# Web API
-
-1. <b>Differences</b>
-   <br>Traditional
-   - use for server-side rendering of html
-   <br>API
-   - use to enable connection from software app to web
-     
+Web API:
+ 
+ 
+Differences from MVC: (Yes/No and Briefly Explain)
+ 
+ 
+Can you differentiate between traditional MVC applications and Web APIs? Briefly explain the main difference.
+ 
+ 
+ 
+ 
+Bottlenecks (Encountered): (Yes/No and Briefly Explain)
+ 
+ 
+Have you encountered any performance challenges with traditional MVC applications compared to Web APIs? If so, briefly describe the scenario(s). (e.g., Frequent page refreshes causing performance overhead, complex data exchange requiring a more lightweight approach)
